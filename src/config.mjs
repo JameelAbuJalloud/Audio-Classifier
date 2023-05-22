@@ -3,7 +3,7 @@ import defaultImage from './assets/images/default.png';
 const CONFIG = {
   name: 'AstroWind',
 
-  origin: 'https://github.com/',
+  origin: 'https://aduiocls.netlify.app/',
   basePathname: '/',
   trailingSlash: false,
 
